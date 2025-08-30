@@ -15,12 +15,14 @@ The Pharmaceutical Workflow System is a full-stack web application built with PH
 
 ✅ Data Accuracy & Safety: Form validation, database triggers, and automated checks reduced errors by 20% in simulated pharmacy testing.
 
+
 🔹 Impact
 ⚡ Reduced manual administrative workload by 50%.
 
 📊 Improved prescription accuracy and operational safety by 25%.
 
 🔔 Decreased stockouts by 40% with proactive alerts.
+
 
 🔹 Tech Stack
 
