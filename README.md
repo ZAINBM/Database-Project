@@ -27,10 +27,10 @@ The Pharmaceutical Workflow System is a full-stack web application built with PH
 
 🔹 Tech Stack
 
-Backend: PHP
+* Backend: PHP
 
-Database: PostgreSQL (with triggers, stored procedures)
+* Database: PostgreSQL (with triggers, stored procedures)
 
-Frontend: HTML, CSS, JavaScript, AJAX
+* Frontend: HTML, CSS, JavaScript, AJAX
 
-Automation: Cron Jobs, Email Triggers
+* Automation: Cron Jobs, Email Triggers
