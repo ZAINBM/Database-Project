@@ -17,6 +17,7 @@ The Pharmaceutical Workflow System is a full-stack web application built with PH
 
 
 🔹 Impact
+
 ⚡ Reduced manual administrative workload by 50%.
 
 📊 Improved prescription accuracy and operational safety by 25%.
